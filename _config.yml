@@ -1,0 +1,28 @@
+name: Wit and Style
+favicon: null
+layout_spectrum: 0.9362824673298746
+typography_spectrum: 0.8281688764691353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.14682073169387877
+  lightness: 0.074029860785231
+  saturation: 0.6154504767619073
+  rhythmicContrast: 0.10191012592986226
+purpose: []
